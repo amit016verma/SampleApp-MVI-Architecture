@@ -1,4 +1,4 @@
-package com.amit.verma.sampleapp_mvi_architecture
+package com.amit.verma.sampleapp_mvi_architecture.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
